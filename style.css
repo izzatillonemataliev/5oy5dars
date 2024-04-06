@@ -1,0 +1,52 @@
+.timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4em;
+  color: white;
+}
+body {
+  /* background: radial-gradient(
+    circle,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(252, 70, 107, 1) 100%
+  ); */
+  background-image: url(https://static.vecteezy.com/system/resources/previews/031/734/582/large_2x/clock-face-on-space-background-3d-rendering-elements-of-this-image-furnished-by-nasa-colorful-abstract-wallpaper-texture-background-universe-and-time-travel-between-stars-ai-generated-free-photo.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.body2 {
+  text-align: center;
+  margin: 60px 0;
+}
+.body {
+  text-align: center;
+  margin: 12em 32em;
+  text-align: center;
+  border: 2px solid aqua;
+  display: block;
+  flex-wrap: wrap;
+  box-shadow: 0 3px 10px 8px aqua;
+  border-radius: 50%;
+}
+.buttons {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+button {
+  padding: 15px 20px;
+  margin-right: 10px;
+}
+.btn1 {
+  color: white;
+  border: none;
+  background: none;
+  font-size: 25px;
+}
+.btn2 {
+  background: none;
+  color: white;
+  border: none;
+  font-size: 25px;
+}
